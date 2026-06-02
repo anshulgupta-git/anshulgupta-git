@@ -1,16 +1,45 @@
-## Hi there 👋
+#Hi 👋, I'm Anshul Gupta
 
-<!--
-**anshulgupta-git/anshulgupta-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pursuing B.Tech in Computer Science Engineering
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- NumPy & Pandas
+- SQL
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🚀 Projects
+-Snake Water Gun Game
+-The Perfect Guess Game
+
+##📚 Currently Learning
+-Python
+-Git & GitHub
+-Data Structures & Algorithms
+-NumPy
+-Pandas
+-SQL
+-Machine Learning Fundamentals
+
+##🎯 Goals
+-Build strong problem-solving skills
+-Master Data Structures & Algorithms
+-Develop AI/ML projects
+-Learn Open Source Development
+-Create real-world software projects
+
+##🛠️ Technologies & Tools
+-Python
+-Git
+-GitHub
+-VS Code
+
+##📈 GitHub Journey
+-Completed Python Fundamentals
+-Published Python Projects on GitHub
+-Learning Software Development Best Practices
+-Exploring AI & Machine Learning
+
+⭐ Always learning, building, and improving.
