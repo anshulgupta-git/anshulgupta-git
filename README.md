@@ -72,9 +72,10 @@
 
 <div align="center">
 
-| 🎖️ Certificate | 🏢 Issuer | 📅 Date | 🆔 ID | 🔗 Link |
-|----------------|-----------|---------|-------|---------|
-| **Python (Basic)** 🐍 | HackerRank | 02 Jun, 2026 | O56ABC2CCA5A | [![HackerRank](https://img.shields.io/badge/View%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://github.com/anshulgupta-git/Certificates/blob/main/python_basic%20certificate.pdf) |
+| 🎖️ Certificate | 🏢 Issuer | 🔗 Link |
+|----------------|-----------|---------|
+| **Python (Basic)** 🐍 | HackerRank | [![HackerRank](https://img.shields.io/badge/View%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://github.com/anshulgupta-git/Certificates/blob/main/HackerRank-Python-Certificate.pdf) |
+| **Python** 🐍 | Kaggle | [![Kaggle](https://img.shields.io/badge/View%20Certificate-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/anshulgupta-git/Certificates/blob/main/Kaggle-Python-Certificate.pdf) |
 
 </div>
 
@@ -85,6 +86,7 @@
 - [x] ✅ Complete Python Fundamentals
 - [x] ✅ Publish Projects on GitHub
 - [x] ✅ Earn HackerRank Python Certificate
+- [x] ✅ Earn Kaggle Python Certificate
 - [ ] 🔄 Master Data Structures & Algorithms
 - [ ] 🔄 Build AI/ML Projects
 - [ ] 🔄 Learn Open Source Development
@@ -114,6 +116,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshulgupta-git)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itzanshulgupta@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 
 </div>
 
