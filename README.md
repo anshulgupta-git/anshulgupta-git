@@ -84,14 +84,6 @@
 
 <div align="center">
 
-![Anshul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshulgupta-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
-
-&nbsp;
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulgupta-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-&nbsp;
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=anshulgupta-git&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 &nbsp;
