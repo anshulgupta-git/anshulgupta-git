@@ -72,9 +72,9 @@
 
 <div align="center">
 
-| 🏅 Certificate | 🏢 Issued By | 📅 Date | 🔗 Link |
-|----------------|-------------|---------|---------|
-| **Python (Basic)** 🐍 | HackerRank | 02 Jun, 2026 | [![HackerRank](https://img.shields.io/badge/View%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://github.com/anshulgupta-git/Certificates/blob/main/python_basic_certificate.pdf) |
+| 🎖️ Certificate | 🏢 Issuer | 📅 Date | 🆔 ID | 🔗 Link |
+|----------------|-----------|---------|-------|---------|
+| **Python (Basic)** 🐍 | HackerRank | 02 Jun, 2026 | O56ABC2CCA5A | [![HackerRank](https://img.shields.io/badge/View%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://github.com/anshulgupta-git/Certificates/blob/main/python_basic%20certificate.pdf) |
 
 </div>
 
@@ -113,7 +113,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshulgupta-git)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itzanshulgupta@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/itzanshulgupta)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 
 </div>
 
